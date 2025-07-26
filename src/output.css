@@ -277,6 +277,9 @@
   .w-full {
     width: 100%;
   }
+  .w-sm {
+    width: var(--container-sm);
+  }
   .max-w-sm {
     max-width: var(--container-sm);
   }
